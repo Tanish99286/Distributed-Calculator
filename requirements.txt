@@ -1,0 +1,2 @@
+# No external packages are required.
+# Python standard library: socket, json, threading, tkinter, argparse, uuid
